@@ -5,8 +5,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: https://www.linkedin.com/in/killian-brunet-ba4a91220/
 
-Spotify Playing 🎧
-spotify-github-profile
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sly.chukizi&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 (you can check the creator of this playing card by clicking on it)
 <h3 align="left">Languages and Tools:</h3>
